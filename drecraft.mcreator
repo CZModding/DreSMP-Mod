@@ -1,0 +1,622 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Computer",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "computer"
+    },
+    {
+      "name": "ComputerFrame",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "computer_frame"
+    },
+    {
+      "name": "Keycap",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keycap"
+    },
+    {
+      "name": "Plastic",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic"
+    },
+    {
+      "name": "Keyboard",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keyboard"
+    },
+    {
+      "name": "RKeyboard",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_keyboard"
+    },
+    {
+      "name": "RComputerFrame",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_computer_frame"
+    },
+    {
+      "name": "RComputer",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_computer"
+    },
+    {
+      "name": "DreCraft",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dre_craft"
+    },
+    {
+      "name": "Dream",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dreamtile"
+    },
+    {
+      "name": "LaptopInterface",
+      "type": "gui",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_interface"
+    },
+    {
+      "name": "Fundy",
+      "type": "mob",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fundy"
+    },
+    {
+      "name": "Sapnap",
+      "type": "mob",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sapnap"
+    },
+    {
+      "name": "RKeycap",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_keycap"
+    },
+    {
+      "name": "Prime",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime"
+    },
+    {
+      "name": "PrimeOre",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_ore"
+    },
+    {
+      "name": "PrimeBlock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_block"
+    },
+    {
+      "name": "PrimeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_ore_block_recipe"
+    },
+    {
+      "name": "PrimeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_block_ore_recipe"
+    },
+    {
+      "name": "PrimeOreSmelting",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_ore_smelting"
+    },
+    {
+      "name": "PrimePickaxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_pickaxe"
+    },
+    {
+      "name": "PrimeAxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_axe"
+    },
+    {
+      "name": "PrimeSword",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_sword"
+    },
+    {
+      "name": "PrimeShovel",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_shovel"
+    },
+    {
+      "name": "PrimeHoe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_hoe"
+    },
+    {
+      "name": "PrimePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_pickaxe_recipe"
+    },
+    {
+      "name": "PrimeAxeRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_axe_recipe"
+    },
+    {
+      "name": "PrimeSwordRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_sword_recipe"
+    },
+    {
+      "name": "PrimeShovelRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_shovel_recipe"
+    },
+    {
+      "name": "PrimeHoeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_hoe_recipe"
+    },
+    {
+      "name": "PrimeArmor",
+      "type": "armor",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PrimeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_armor_helmet_recipe"
+    },
+    {
+      "name": "PrimeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_armor_body_recipe"
+    },
+    {
+      "name": "PrimeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_armor_leggings_recipe"
+    },
+    {
+      "name": "PrimeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_armor_boots_recipe"
+    },
+    {
+      "name": "WAP",
+      "type": "achievement",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wap"
+    },
+    {
+      "name": "PrimeSub",
+      "type": "achievement",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_sub"
+    },
+    {
+      "name": "BigQDrugs",
+      "type": "food",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "big_q_drugs"
+    },
+    {
+      "name": "Trip",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trip",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TechnoWanted",
+      "type": "painting",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "techno_wanted"
+    },
+    {
+      "name": "AbleSisters",
+      "type": "musicdisc",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "able_sisters"
+    },
+    {
+      "name": "DoubleDrops",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "double_drops",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "TheBlade",
+      "type": "mob",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_blade"
+    },
+    {
+      "name": "PrimeDimensionEntry",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_dimension_entry",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PrimePlains",
+      "type": "biome",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_plains"
+    },
+    {
+      "name": "PrimeDimension",
+      "type": "dimension",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_dimension"
+    },
+    {
+      "name": "PrimeCloutIncrease",
+      "type": "procedure",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prime_clout_increase",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blackstone",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blackstone"
+    },
+    {
+      "name": "Basalt",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt"
+    },
+    {
+      "name": "CrackedPolishedBlackstoneBricks",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cracked_polished_blackstone_bricks"
+    },
+    {
+      "name": "GildedBlackstone",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilded_blackstone"
+    },
+    {
+      "name": "ChiseledPolishedBlackstone",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_polished_blackstone"
+    },
+    {
+      "name": "PolishedBlackstone",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_blackstone"
+    },
+    {
+      "name": "PolishedBlackstoneBrick",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_blackstone_bricks"
+    },
+    {
+      "name": "PolishedBasalt",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_basalt"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "CloutLevel",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "ArrivedPrime",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "ablesisters",
+      "files": [
+        "ablesisters"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.drecraft.prime_pickaxe": "Prime Pickaxe",
+      "item.drecraft.sapnap_spawn_egg": "Sapnap Spawn Egg",
+      "item.drecraft.prime_hoe": "Prime Hoe",
+      "block.drecraft.prime_ore": "Prime Ore",
+      "item.drecraft.dreamtile": "Dream",
+      "block.drecraft.basalt": "Basalt",
+      "item.drecraft.plastic": "Plastic",
+      "biome.drecraft.prime_plains": "Prime Plains",
+      "item.drecraft.prime_dimension": "Prime",
+      "item.drecraft.prime_shovel": "Prime Shovel",
+      "block.drecraft.gilded_blackstone": "Gilded Blackstone",
+      "block.drecraft.cracked_polished_blackstone_bricks": "Cracked Polished Blackstone Bricks",
+      "item.drecraft.fundy_spawn_egg": "Fundy Spawn Egg",
+      "block.drecraft.blackstone": "Blackstone",
+      "item.drecraft.able_sisters": "Able Sisters",
+      "entity.drecraft.sapnap": "Sapnap",
+      "subtitles.ablesisters": "",
+      "block.drecraft.chiseled_polished_blackstone": "Chiseled Polished Blackstone",
+      "advancements.wap.title": "Worship and Prayer",
+      "item.drecraft.keycap": "Keycap",
+      "advancements.prime_sub.descr": "Find a Prime sub hidden in an ore. Wait wha-",
+      "item.drecraft.the_blade_spawn_egg": "The Blade Spawn Egg",
+      "block.drecraft.polished_basalt": "Polished Basalt",
+      "block.drecraft.polished_blackstone_bricks": "Polished Blackstone Brick",
+      "itemGroup.tabdre_craft": "Dre Craft",
+      "block.drecraft.prime_block": "Block of Prime",
+      "item.drecraft.computer": "Laptop",
+      "block.drecraft.polished_blackstone": "Polished Blackstone",
+      "advancements.wap.descr": "Farm enough subs to make Prime stuff",
+      "item.drecraft.big_q_drugs": "Big Q\u0027s Meth",
+      "item.drecraft.prime": "Prime",
+      "item.drecraft.prime_armor_helmet": "Prime Helmet",
+      "item.drecraft.prime_armor_boots": "Prime Boots",
+      "advancements.prime_sub.title": "Prime Subs!",
+      "item.drecraft.prime_armor_leggings": "Prime Leggings",
+      "item.drecraft.able_sisters.desc": "POG",
+      "item.drecraft.prime_armor_chestplate": "Prime Chestplate",
+      "item.drecraft.prime_axe": "Prime Axe",
+      "item.drecraft.keyboard": "Keyboard",
+      "item.drecraft.computer_frame": "Computer Frame",
+      "entity.drecraft.the_blade": "The Blade",
+      "entity.drecraft.fundy": "Fundy",
+      "item.drecraft.prime_sword": "Prime Sword"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "drecraft",
+    "modName": "DreCraft",
+    "version": "1.0.0",
+    "author": "Ayush, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "com.welpy.dresmp",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
